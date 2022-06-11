@@ -1,7 +1,7 @@
 # first-react-project
 Primeiro projeto utilizando React Native, produzido junto à DIO.
 
-<img src="https://raw.githubusercontent.com/jkss13/first-react-project/main/project-screenshot.png?token=GHSAT0AAAAAABU3RCNSJAS5JRDBQPYIHVWSYVE2WBQ">
+<img src="[https://raw.githubusercontent.com/jkss13/first-react-project/main/project-screenshot.png?token=GHSAT0AAAAAABU3RCNS4DQIJPYSHAUMZ6CMYVE7FOQ]
 
 <h3>Conteúdo</h3>
 
